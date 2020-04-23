@@ -1,8 +1,8 @@
 
 <h1>~My Daily Routine During MCO~</h1>
-<p>Assalamualaikum and Hi! My name is Azizah and I am going to tell you<br>
-what am I doing during this MCO. So, during this Movement Control Order,<br>
-instead of going back home, I spent my time in hostel.</p> </br>
+<p>Assalamualaikum and Hi! My name is Azizah and I am going to tell you
+what am I doing during this MCO. So, during this Movement Control Order,
+instead of going back home, I spent my time in hostel.</p> 
 
 ![](HTML%20exercises%20github/socmed.jpg)
 <p><center> So, basically in the early of the MCO, my friends and I had lots of free time<br>
