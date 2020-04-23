@@ -11,6 +11,7 @@ One thing we did the most during MCO was browsing through social media. I enjoye
 in youtube. I's spent up 3 hours straight doing social media thing because we were too bored that time.</p>
 
 ![](HTML%20exercises%20github/homework.png)
+
 <p> As far as I remember, we didn't have that much work to do early of the MCO. What we did was, We did some
 exploration with our subject. This is because we are still not very familiar with the subject and syllibus
 We also did our assignment, as all of the lectures and work were given online and we were asked to use certain
