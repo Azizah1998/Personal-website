@@ -1,5 +1,5 @@
-<body><body bgcolor=#F08080>
-<h1><center>~My Daily Routine During MCO~</h1></center>
+
+<h1>~My Daily Routine During MCO~</h1>
 <p>Assalamualaikum and Hi! My name is Azizah and I am going to tell you<br>
 what am I doing during this MCO. So, during this Movement Control Order,<br>
 instead of going back home, I spent my time in hostel.</p> </br>
